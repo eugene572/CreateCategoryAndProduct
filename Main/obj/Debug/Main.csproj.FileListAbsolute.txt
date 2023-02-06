@@ -1,0 +1,16 @@
+C:\Users\정유진\Source\Repos\Main\Main\bin\Debug\Main.exe.config
+C:\Users\정유진\Source\Repos\Main\Main\bin\Debug\Main.exe
+C:\Users\정유진\Source\Repos\Main\Main\bin\Debug\Main.pdb
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.AddCategory.resources
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.AddProduct.resources
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.exe
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.pdb
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.AllProduct.resources
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.main.resources
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.Login.resources
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.Views.Buy.resources
+C:\Users\정유진\Source\Repos\Main\Main\obj\Debug\Main.SalesHistory.resources
